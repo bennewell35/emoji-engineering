@@ -2,7 +2,7 @@
 
 Tiny diagrams for builders.
 
-Inspired by Guillermo Rauch’s emoji flag post.
+> Origin note: Emoji Engineering was inspired by [Guillermo Rauch](https://github.com/rauchg)'s emoji flag post. This project expands that spark into a broader open-source collection of original, copy-pasteable emoji diagrams for builders.
 
 ## What This Is
 
