@@ -33,3 +33,35 @@ Launch gates, founder updates, public build logs, and post-launch follow-through
 ## Flags / Pixel Art
 
 Original grids, status flags, tiny banners, progress bars, and playful pixel-art patterns.
+
+## Founder Updates
+
+Build-in-public posts, traction updates, pivots, launches, and weekly progress notes.
+
+## Debugging
+
+Bug hunts, incidents, rollback paths, root cause, fixes, and verification loops.
+
+## Data Viz
+
+Tiny charts, scorecards, funnels, heatmaps, and metric snapshots.
+
+## Architecture
+
+API maps, queues, databases, clients, jobs, services, and system boundaries.
+
+## Growth Loops
+
+Content loops, referral loops, feedback loops, community flywheels, and distribution systems.
+
+## Decision-Making
+
+Tradeoffs, gates, option maps, confidence levels, and yes/no paths.
+
+## AI Systems
+
+RAG, memory, evals, model routing, multi-agent systems, and tool orchestration.
+
+## Internet Art
+
+Original banners, separators, badges, mini maps, and decorative-but-useful post artifacts.

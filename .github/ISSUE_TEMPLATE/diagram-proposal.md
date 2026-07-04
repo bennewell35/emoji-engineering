@@ -16,6 +16,14 @@ assignees: ""
 - [ ] GitHub / open source
 - [ ] Launch checklists
 - [ ] Flags / pixel art
+- [ ] Founder updates
+- [ ] Debugging
+- [ ] Data viz
+- [ ] Architecture
+- [ ] Growth loops
+- [ ] Decision-making
+- [ ] AI systems
+- [ ] Internet art
 
 ## Diagram
 

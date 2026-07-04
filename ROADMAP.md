@@ -11,7 +11,7 @@ Emoji Engineering should stay small, useful, and easy to contribute to.
 
 ## Near Term
 
-- Add more high-signal diagrams for launches, agents, OSS work, and health data.
+- Add more high-signal diagrams for launches, agents, OSS work, health data, growth loops, and system design.
 - Add a gallery page with the strongest examples.
 - Add category badges or an index table for faster browsing.
 - Improve pixel-art guidance without copying existing viral posts.

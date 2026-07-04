@@ -105,6 +105,14 @@ Tiny contribution-map energy for open-source updates.
 - [GitHub / open source](examples/github-open-source.md)
 - [Launch checklists](examples/launch-checklists.md)
 - [Flags / pixel art](examples/flags-pixel-art.md)
+- [Founder updates](examples/founder-updates.md)
+- [Debugging](examples/debugging.md)
+- [Data viz](examples/data-viz.md)
+- [Architecture](examples/architecture.md)
+- [Growth loops](examples/growth-loops.md)
+- [Decision-making](examples/decision-making.md)
+- [AI systems](examples/ai-systems.md)
+- [Internet art](examples/internet-art.md)
 
 ## Templates
 
@@ -115,6 +123,12 @@ Reusable starting points live in `templates/`:
 - [Pixel art grid](templates/pixel-art-grid.md)
 - [Checklist](templates/checklist.md)
 - [System map](templates/system-map.md)
+
+## Docs
+
+- [Categories](docs/categories.md)
+- [Style guide](docs/style-guide.md)
+- [Emoji primitives](docs/emoji-primitives.md)
 
 ## Contribution Guidelines
 
